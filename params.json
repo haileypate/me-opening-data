@@ -1,0 +1,6 @@
+{
+  "name": "my charts",
+  "tagline": "sandbox",
+  "body": "### Welcome to my chart\r\nThis is a pretty cool chart!\r\n\r\n<iframe width=\"600\" height=\"371\" seamless frameborder=\"0\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/114YyOXJ1j_xSWoMlSNpEvS6MsckHoKTMzqyXwcZdb9Y/pubchart?oid=636708746&amp;format=interactive\"></iframe>\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
